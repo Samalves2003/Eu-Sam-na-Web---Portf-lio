@@ -7,6 +7,10 @@
    align-items: center;
 }
 
+.meacompanhelkd{
+    width: 50rem;
+}
+
 @media (max-width: 1024px){
     .row-card{
         display: flex;
@@ -15,5 +19,10 @@
 
     .card{
         width: 100%;
+    }
+    .meacompanhelkd{
+        margin-top: 4rem;
+        width: 100%;
+        
     }
 }
